@@ -1,0 +1,245 @@
+﻿sample_name,sample_description,area,amount,level,units,analyte
+"AS_IS_0,24",Std Bracket Sample,1332748.023,100,1,ug/L,cortisone_d8
+"AS_IS_0,24_2",Std Bracket Sample,1485794.898,100,1,ug/L,cortisone_d8
+"AS_IS_0,49",Std Bracket Sample,1376625.422,100,2,ug/L,cortisone_d8
+"AS_IS_0,49_2",Std Bracket Sample,1500486.53,100,2,ug/L,cortisone_d8
+"AS_IS_0,98",Std Bracket Sample,1433556.904,100,3,ug/L,cortisone_d8
+"AS_IS_0,98_2",Std Bracket Sample,1488950.518,100,3,ug/L,cortisone_d8
+"AS_IS_1,95",Std Bracket Sample,1437368.861,100,4,ug/L,cortisone_d8
+"AS_IS_1,95_2",Std Bracket Sample,1436109.145,100,4,ug/L,cortisone_d8
+AS_IS_1000,Std Bracket Sample,1392207.784,100,13,ug/L,cortisone_d8
+AS_IS_1000_2,Std Bracket Sample,1427904.644,100,13,ug/L,cortisone_d8
+AS_IS_125,Std Bracket Sample,1407761.79,100,10,ug/L,cortisone_d8
+AS_IS_125_2,Std Bracket Sample,1450528.32,100,10,ug/L,cortisone_d8
+"AS_IS_15,63",Std Bracket Sample,1430733.421,100,6,ug/L,cortisone_d8
+"AS_IS_15,63_2",Std Bracket Sample,1472673.769,100,7,ug/L,cortisone_d8
+AS_IS_250,Std Bracket Sample,1378187.322,100,11,ug/L,cortisone_d8
+AS_IS_250_2,Std Bracket Sample,1419192.007,100,11,ug/L,cortisone_d8
+"AS_IS_3,91",Std Bracket Sample,1464039.346,100,5,ug/L,cortisone_d8
+"AS_IS_3,91_2",Std Bracket Sample,1462846.254,100,5,ug/L,cortisone_d8
+"AS_IS_31,25",Std Bracket Sample,1429894.359,100,8,ug/L,cortisone_d8
+"AS_IS_31,25_2",Std Bracket Sample,1439247.791,100,8,ug/L,cortisone_d8
+AS_IS_500,Std Bracket Sample,1383675.542,100,12,ug/L,cortisone_d8
+AS_IS_500_2,Std Bracket Sample,1390069.855,100,12,ug/L,cortisone_d8
+"AS_IS_62,5",Std Bracket Sample,1428189.392,100,9,ug/L,cortisone_d8
+"AS_IS_62,5_2",Std Bracket Sample,1447940.818,100,9,ug/L,cortisone_d8
+"AS_IS_7,81",Std Bracket Sample,1460764.122,100,6,ug/L,cortisone_d8
+"AS_IS_7,81_2",Std Bracket Sample,1433674.395,100,6,ug/L,cortisone_d8
+solvblk_1,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_10,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_2,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_3,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_4,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_5,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_6,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_7,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_8,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+solvblk_9,Blank Sample,NF,NA,NA,ug/L,cortisone_d8
+centrifuged_1A,Unknown Sample,962117.2965,NA,NA,ug/L,cortisone_d8
+centrifuged_1B,Unknown Sample,1072631.193,NA,NA,ug/L,cortisone_d8
+eluate_1A,Unknown Sample,420684.5622,NA,NA,ug/L,cortisone_d8
+eluate_1B,Unknown Sample,4456.084432,NA,NA,ug/L,cortisone_d8
+eluate_2A,Unknown Sample,2921504.388,NA,NA,ug/L,cortisone_d8
+eluate_2B,Unknown Sample,5992.855533,NA,NA,ug/L,cortisone_d8
+filtered_1A,Unknown Sample,988219.9732,NA,NA,ug/L,cortisone_d8
+filtered_1B,Unknown Sample,959465.444,NA,NA,ug/L,cortisone_d8
+filtered_2A,Unknown Sample,1028301.835,NA,NA,ug/L,cortisone_d8
+filtered_2B,Unknown Sample,887193.3178,NA,NA,ug/L,cortisone_d8
+loading_1A,Unknown Sample,NF,NA,NA,ug/L,cortisone_d8
+loading_1B,Unknown Sample,NF,NA,NA,ug/L,cortisone_d8
+loading_2A,Unknown Sample,NF,NA,NA,ug/L,cortisone_d8
+loading_2B,Unknown Sample,NF,NA,NA,ug/L,cortisone_d8
+negative_control_1,Unknown Sample,NF,NA,NA,ug/L,cortisone_d8
+negative_control_2,Unknown Sample,NF,NA,NA,ug/L,cortisone_d8
+positive_control_1,Unknown Sample,1306292.152,NA,NA,ug/L,cortisone_d8
+positive_control_2,Unknown Sample,1381982.96,NA,NA,ug/L,cortisone_d8
+spike_solution_1,Unknown Sample,2750865.829,NA,NA,ug/L,cortisone_d8
+spike_solution_2,Unknown Sample,3780386.711,NA,NA,ug/L,cortisone_d8
+spike_solution_3,Unknown Sample,1458654.857,NA,NA,ug/L,cortisone_d8
+unfiltered_1A,Unknown Sample,139409.7453,NA,NA,ug/L,cortisone_d8
+unfiltered_1B,Unknown Sample,131915.7162,NA,NA,ug/L,cortisone_d8
+wash_1,Unknown Sample,NF,NA,NA,ug/L,cortisone_d8
+wash_2,Unknown Sample,NF,NA,NA,ug/L,cortisone_d8
+"AS_IS_0,24",Std Bracket Sample,NF,0.24,1,ug/L,cortisone
+"AS_IS_0,24_2",Std Bracket Sample,NF,0.24,1,ug/L,cortisone
+"AS_IS_0,49",Std Bracket Sample,NF,0.49,2,ug/L,cortisone
+"AS_IS_0,49_2",Std Bracket Sample,NF,0.49,2,ug/L,cortisone
+"AS_IS_0,98",Std Bracket Sample,2945.301607,0.98,3,ug/L,cortisone
+"AS_IS_0,98_2",Std Bracket Sample,4912.976416,0.98,3,ug/L,cortisone
+"AS_IS_1,95",Std Bracket Sample,8791.481702,1.95,4,ug/L,cortisone
+"AS_IS_1,95_2",Std Bracket Sample,8937.786897,1.95,4,ug/L,cortisone
+AS_IS_1000,Std Bracket Sample,4375826.856,1000,13,ug/L,cortisone
+AS_IS_1000_2,Std Bracket Sample,4259033.074,1000,13,ug/L,cortisone
+AS_IS_125,Std Bracket Sample,629584.7348,125,10,ug/L,cortisone
+AS_IS_125_2,Std Bracket Sample,632409.5181,125,10,ug/L,cortisone
+"AS_IS_15,63",Std Bracket Sample,82851.527,7.81,6,ug/L,cortisone
+"AS_IS_15,63_2",Std Bracket Sample,83155.45036,15.63,7,ug/L,cortisone
+AS_IS_250,Std Bracket Sample,1244217.075,250,11,ug/L,cortisone
+AS_IS_250_2,Std Bracket Sample,1247685.244,250,11,ug/L,cortisone
+"AS_IS_3,91",Std Bracket Sample,19320.36071,3.91,5,ug/L,cortisone
+"AS_IS_3,91_2",Std Bracket Sample,19193.31881,3.91,5,ug/L,cortisone
+"AS_IS_31,25",Std Bracket Sample,169260.9457,31.25,8,ug/L,cortisone
+"AS_IS_31,25_2",Std Bracket Sample,163262.7942,31.25,8,ug/L,cortisone
+AS_IS_500,Std Bracket Sample,2357927.828,500,12,ug/L,cortisone
+AS_IS_500_2,Std Bracket Sample,2323220.375,500,12,ug/L,cortisone
+"AS_IS_62,5",Std Bracket Sample,328987.2729,62.5,9,ug/L,cortisone
+"AS_IS_62,5_2",Std Bracket Sample,325413.8067,62.5,9,ug/L,cortisone
+"AS_IS_7,81",Std Bracket Sample,41031.35485,7.81,6,ug/L,cortisone
+"AS_IS_7,81_2",Std Bracket Sample,37604.32451,7.81,6,ug/L,cortisone
+solvblk_1,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_10,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_2,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_3,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_4,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_5,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_6,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_7,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_8,Blank Sample,NF,NA,NA,ug/L,cortisone
+solvblk_9,Blank Sample,NF,NA,NA,ug/L,cortisone
+centrifuged_1A,Unknown Sample,NF,NA,NA,ug/L,cortisone
+centrifuged_1B,Unknown Sample,NF,NA,NA,ug/L,cortisone
+eluate_1A,Unknown Sample,189687.9497,NA,NA,ug/L,cortisone
+eluate_1B,Unknown Sample,NF,NA,NA,ug/L,cortisone
+eluate_2A,Unknown Sample,1399480.155,NA,NA,ug/L,cortisone
+eluate_2B,Unknown Sample,NF,NA,NA,ug/L,cortisone
+filtered_1A,Unknown Sample,NF,NA,NA,ug/L,cortisone
+filtered_1B,Unknown Sample,NF,NA,NA,ug/L,cortisone
+filtered_2A,Unknown Sample,NF,NA,NA,ug/L,cortisone
+filtered_2B,Unknown Sample,NF,NA,NA,ug/L,cortisone
+loading_1A,Unknown Sample,NF,NA,NA,ug/L,cortisone
+loading_1B,Unknown Sample,NF,NA,NA,ug/L,cortisone
+loading_2A,Unknown Sample,NF,NA,NA,ug/L,cortisone
+loading_2B,Unknown Sample,NF,NA,NA,ug/L,cortisone
+negative_control_1,Unknown Sample,NF,NA,NA,ug/L,cortisone
+negative_control_2,Unknown Sample,NF,NA,NA,ug/L,cortisone
+positive_control_1,Unknown Sample,NF,NA,NA,ug/L,cortisone
+positive_control_2,Unknown Sample,NF,NA,NA,ug/L,cortisone
+spike_solution_1,Unknown Sample,NF,NA,NA,ug/L,cortisone
+spike_solution_2,Unknown Sample,NF,NA,NA,ug/L,cortisone
+spike_solution_3,Unknown Sample,741465.1268,NA,NA,ug/L,cortisone
+unfiltered_1A,Unknown Sample,NF,NA,NA,ug/L,cortisone
+unfiltered_1B,Unknown Sample,NF,NA,NA,ug/L,cortisone
+wash_1,Unknown Sample,NF,NA,NA,ug/L,cortisone
+wash_2,Unknown Sample,NF,NA,NA,ug/L,cortisone
+"AS_IS_0,24",Std Bracket Sample,659800.078,100,1,ug/L,cortisol_d4
+"AS_IS_0,24_2",Std Bracket Sample,724614.2286,100,1,ug/L,cortisol_d4
+"AS_IS_0,49",Std Bracket Sample,679335.3897,100,2,ug/L,cortisol_d4
+"AS_IS_0,49_2",Std Bracket Sample,731236.8115,100,2,ug/L,cortisol_d4
+"AS_IS_0,98",Std Bracket Sample,704054.8296,100,3,ug/L,cortisol_d4
+"AS_IS_0,98_2",Std Bracket Sample,724767.1146,100,3,ug/L,cortisol_d4
+"AS_IS_1,95",Std Bracket Sample,711969.1837,100,4,ug/L,cortisol_d4
+"AS_IS_1,95_2",Std Bracket Sample,690042.7397,100,4,ug/L,cortisol_d4
+AS_IS_1000,Std Bracket Sample,643464.9122,100,13,ug/L,cortisol_d4
+AS_IS_1000_2,Std Bracket Sample,650551.0207,100,13,ug/L,cortisol_d4
+AS_IS_125,Std Bracket Sample,680333.224,100,10,ug/L,cortisol_d4
+AS_IS_125_2,Std Bracket Sample,695807.93,100,10,ug/L,cortisol_d4
+"AS_IS_15,63",Std Bracket Sample,703246.8532,100,6,ug/L,cortisol_d4
+"AS_IS_15,63_2",Std Bracket Sample,717598.521,100,7,ug/L,cortisol_d4
+AS_IS_250,Std Bracket Sample,653890.6186,100,11,ug/L,cortisol_d4
+AS_IS_250_2,Std Bracket Sample,678211.6341,100,11,ug/L,cortisol_d4
+"AS_IS_3,91",Std Bracket Sample,709651.3995,100,5,ug/L,cortisol_d4
+"AS_IS_3,91_2",Std Bracket Sample,715467.0129,100,5,ug/L,cortisol_d4
+"AS_IS_31,25",Std Bracket Sample,700028.6473,100,8,ug/L,cortisol_d4
+"AS_IS_31,25_2",Std Bracket Sample,702631.9953,100,8,ug/L,cortisol_d4
+AS_IS_500,Std Bracket Sample,642075.3636,100,12,ug/L,cortisol_d4
+AS_IS_500_2,Std Bracket Sample,651989.2844,100,12,ug/L,cortisol_d4
+"AS_IS_62,5",Std Bracket Sample,686228.673,100,9,ug/L,cortisol_d4
+"AS_IS_62,5_2",Std Bracket Sample,699748.8456,100,9,ug/L,cortisol_d4
+"AS_IS_7,81",Std Bracket Sample,715691.2277,100,6,ug/L,cortisol_d4
+"AS_IS_7,81_2",Std Bracket Sample,706193.899,100,6,ug/L,cortisol_d4
+solvblk_1,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_10,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_2,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_3,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_4,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_5,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_6,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_7,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_8,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+solvblk_9,Blank Sample,NF,NA,NA,ug/L,cortisol_d4
+centrifuged_1A,Unknown Sample,625591.9077,NA,NA,ug/L,cortisol_d4
+centrifuged_1B,Unknown Sample,691202.0301,NA,NA,ug/L,cortisol_d4
+eluate_1A,Unknown Sample,262183.2137,NA,NA,ug/L,cortisol_d4
+eluate_1B,Unknown Sample,2373.877504,NA,NA,ug/L,cortisol_d4
+eluate_2A,Unknown Sample,1879966.374,NA,NA,ug/L,cortisol_d4
+eluate_2B,Unknown Sample,3931.569231,NA,NA,ug/L,cortisol_d4
+filtered_1A,Unknown Sample,747633.6329,NA,NA,ug/L,cortisol_d4
+filtered_1B,Unknown Sample,777280.218,NA,NA,ug/L,cortisol_d4
+filtered_2A,Unknown Sample,746582.2851,NA,NA,ug/L,cortisol_d4
+filtered_2B,Unknown Sample,619132.7981,NA,NA,ug/L,cortisol_d4
+loading_1A,Unknown Sample,NF,NA,NA,ug/L,cortisol_d4
+loading_1B,Unknown Sample,NF,NA,NA,ug/L,cortisol_d4
+loading_2A,Unknown Sample,NF,NA,NA,ug/L,cortisol_d4
+loading_2B,Unknown Sample,NF,NA,NA,ug/L,cortisol_d4
+negative_control_1,Unknown Sample,NF,NA,NA,ug/L,cortisol_d4
+negative_control_2,Unknown Sample,NF,NA,NA,ug/L,cortisol_d4
+positive_control_1,Unknown Sample,890120.7938,NA,NA,ug/L,cortisol_d4
+positive_control_2,Unknown Sample,938502.7621,NA,NA,ug/L,cortisol_d4
+spike_solution_1,Unknown Sample,1844411.216,NA,NA,ug/L,cortisol_d4
+spike_solution_2,Unknown Sample,2519620.114,NA,NA,ug/L,cortisol_d4
+spike_solution_3,Unknown Sample,985380.4777,NA,NA,ug/L,cortisol_d4
+unfiltered_1A,Unknown Sample,146855.7724,NA,NA,ug/L,cortisol_d4
+unfiltered_1B,Unknown Sample,147316.3763,NA,NA,ug/L,cortisol_d4
+wash_1,Unknown Sample,NF,NA,NA,ug/L,cortisol_d4
+wash_2,Unknown Sample,NF,NA,NA,ug/L,cortisol_d4
+"AS_IS_0,24",Std Bracket Sample,NF,0.24,1,ug/L,cortisol
+"AS_IS_0,24_2",Std Bracket Sample,2410.359416,0.24,1,ug/L,cortisol
+"AS_IS_0,49",Std Bracket Sample,3331.583612,0.49,2,ug/L,cortisol
+"AS_IS_0,49_2",Std Bracket Sample,4106.432388,0.49,2,ug/L,cortisol
+"AS_IS_0,98",Std Bracket Sample,8764.362355,0.98,3,ug/L,cortisol
+"AS_IS_0,98_2",Std Bracket Sample,8652.230056,0.98,3,ug/L,cortisol
+"AS_IS_1,95",Std Bracket Sample,14521.19741,1.95,4,ug/L,cortisol
+"AS_IS_1,95_2",Std Bracket Sample,14770.63189,1.95,4,ug/L,cortisol
+AS_IS_1000,Std Bracket Sample,5708769.145,1000,13,ug/L,cortisol
+AS_IS_1000_2,Std Bracket Sample,5649338.148,1000,13,ug/L,cortisol
+AS_IS_125,Std Bracket Sample,839350.1494,125,10,ug/L,cortisol
+AS_IS_125_2,Std Bracket Sample,833952.9846,125,10,ug/L,cortisol
+"AS_IS_15,63",Std Bracket Sample,110670.777,7.81,6,ug/L,cortisol
+"AS_IS_15,63_2",Std Bracket Sample,110757.9029,15.63,7,ug/L,cortisol
+AS_IS_250,Std Bracket Sample,1631147.138,250,11,ug/L,cortisol
+AS_IS_250_2,Std Bracket Sample,1633905.953,250,11,ug/L,cortisol
+"AS_IS_3,91",Std Bracket Sample,28279.95061,3.91,5,ug/L,cortisol
+"AS_IS_3,91_2",Std Bracket Sample,29024.83989,3.91,5,ug/L,cortisol
+"AS_IS_31,25",Std Bracket Sample,219727.3832,31.25,8,ug/L,cortisol
+"AS_IS_31,25_2",Std Bracket Sample,218978.459,31.25,8,ug/L,cortisol
+AS_IS_500,Std Bracket Sample,3065378.198,500,12,ug/L,cortisol
+AS_IS_500_2,Std Bracket Sample,3033528.32,500,12,ug/L,cortisol
+"AS_IS_62,5",Std Bracket Sample,437741.3922,62.5,9,ug/L,cortisol
+"AS_IS_62,5_2",Std Bracket Sample,434968.5976,62.5,9,ug/L,cortisol
+"AS_IS_7,81",Std Bracket Sample,57515.47878,7.81,6,ug/L,cortisol
+"AS_IS_7,81_2",Std Bracket Sample,53986.86222,7.81,6,ug/L,cortisol
+solvblk_1,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_10,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_2,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_3,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_4,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_5,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_6,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_7,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_8,Blank Sample,NF,NA,NA,ug/L,cortisol
+solvblk_9,Blank Sample,952.2499118,NA,NA,ug/L,cortisol
+centrifuged_1A,Unknown Sample,NF,NA,NA,ug/L,cortisol
+centrifuged_1B,Unknown Sample,NF,NA,NA,ug/L,cortisol
+eluate_1A,Unknown Sample,246130.9335,NA,NA,ug/L,cortisol
+eluate_1B,Unknown Sample,2255.569935,NA,NA,ug/L,cortisol
+eluate_2A,Unknown Sample,1858165.647,NA,NA,ug/L,cortisol
+eluate_2B,Unknown Sample,3376.430266,NA,NA,ug/L,cortisol
+filtered_1A,Unknown Sample,NF,NA,NA,ug/L,cortisol
+filtered_1B,Unknown Sample,NF,NA,NA,ug/L,cortisol
+filtered_2A,Unknown Sample,NF,NA,NA,ug/L,cortisol
+filtered_2B,Unknown Sample,NF,NA,NA,ug/L,cortisol
+loading_1A,Unknown Sample,NF,NA,NA,ug/L,cortisol
+loading_1B,Unknown Sample,NF,NA,NA,ug/L,cortisol
+loading_2A,Unknown Sample,NF,NA,NA,ug/L,cortisol
+loading_2B,Unknown Sample,NF,NA,NA,ug/L,cortisol
+negative_control_1,Unknown Sample,NF,NA,NA,ug/L,cortisol
+negative_control_2,Unknown Sample,NF,NA,NA,ug/L,cortisol
+positive_control_1,Unknown Sample,1054.812213,NA,NA,ug/L,cortisol
+positive_control_2,Unknown Sample,1025.995445,NA,NA,ug/L,cortisol
+spike_solution_1,Unknown Sample,2473.475483,NA,NA,ug/L,cortisol
+spike_solution_2,Unknown Sample,3222.699197,NA,NA,ug/L,cortisol
+spike_solution_3,Unknown Sample,1049301.135,NA,NA,ug/L,cortisol
+unfiltered_1A,Unknown Sample,NF,NA,NA,ug/L,cortisol
+unfiltered_1B,Unknown Sample,NF,NA,NA,ug/L,cortisol
+wash_1,Unknown Sample,NF,NA,NA,ug/L,cortisol
+wash_2,Unknown Sample,NF,NA,NA,ug/L,cortisol

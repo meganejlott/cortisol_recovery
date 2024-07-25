@@ -1,0 +1,13 @@
+﻿sample_name,date,box_position,solvent,volume.uL,volume.processed.L,volume.eluate.L,spike_solution
+negative_control_1,7/1/2024,1_A1,50% methanol,200,0.2,0.004,NA
+centrifuged_1A,7/1/2024,1_A2,50% methanol,200,0.192,0.004,spike_solution_1
+centrifuged_1B,7/1/2024,1_A3,50% methanol,200,0.19,0.004,spike_solution_1
+filtered_1A,7/1/2024,1_A4,50% methanol,200,0.2,0.004,spike_solution_1
+filtered_1B,7/1/2024,1_A5,50% methanol,200,0.2,0.004,spike_solution_1
+positive_control_1,7/1/2024,1_A6,50% methanol,200,0.2,0.004,spike_solution_1
+negative_control_2,7/2/2024,1_B1,50% methanol,200,0.2,0.004,NA
+unfiltered_1A,7/2/2024,1_B2,50% methanol,200,0.048,0.004,spike_solution_2
+unfiltered_1B,7/2/2024,1_B3,50% methanol,200,0.048,0.004,spike_solution_2
+filtered_2A,7/2/2024,1_B4,50% methanol,200,0.2,0.004,spike_solution_2
+filtered_2B,7/2/2024,1_B5,50% methanol,200,0.2,0.004,spike_solution_2
+positive_control_2,7/2/2024,1_B6,50% methanol,200,0.2,0.004,spike_solution_2
